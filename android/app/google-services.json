@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "592462108099",
+    "project_id": "woma-74a48",
+    "storage_bucket": "woma-74a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592462108099:android:5746d485d91c4551fc9976",
+        "android_client_info": {
+          "package_name": "com.woma.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592462108099-3mp4g346tshbrc6prucdjhqb4jak9ibh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_HcQxZvKOXa903W4Fzc6akt9avL5us5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592462108099-3mp4g346tshbrc6prucdjhqb4jak9ibh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592462108099-o17lmqi08qukbgjlm01pmt9jatg5bk5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.womadeliveryboy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592462108099:android:5129110ba9cf5dd4fc9976",
+        "android_client_info": {
+          "package_name": "com.womadeliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592462108099-3mp4g346tshbrc6prucdjhqb4jak9ibh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_HcQxZvKOXa903W4Fzc6akt9avL5us5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592462108099-3mp4g346tshbrc6prucdjhqb4jak9ibh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592462108099-o17lmqi08qukbgjlm01pmt9jatg5bk5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.womadeliveryboy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
